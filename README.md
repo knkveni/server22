@@ -1,0 +1,3 @@
+# smart
+# mode
+# bold
